@@ -25,10 +25,10 @@ Grande telas: acima de 1200px
     img#tv { display: none; }
 }
 
-@media screen  and (min-width: 992px) and (max-width: 1200px) {
+@media screen and (min-width: 992px) and (max-width: 1200px) {
 }
     
 
-@media  and (min-width: 1200px) { /* Grandes telas */
+@media screen  and (min-width: 1200px) { /* Grandes telas */
     
 }
